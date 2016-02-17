@@ -2,4 +2,4 @@
 
 Hello all you fabulous folks!
 
-I'm getting rock this GitHub biz!
+I'm getting ready to rock this GitHub biz!
